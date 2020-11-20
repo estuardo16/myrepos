@@ -1,0 +1,122 @@
+body {
+    background-image: url("tienda2.jpg");
+    background-position: center 25%;
+    background-size: cover;
+}
+.boton{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 30%;
+}
+.boton2{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 3%;
+}
+.boton3{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 3%;
+}
+.boton4{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 40%;
+}
+.boton5{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 40%;
+}
+.titulo{
+    color: white;
+    text-shadow: #555 2px 2px 3px;
+    text-align: center;
+    background-position: center;
+    margin-top: 8%;
+}
+.tituloproducto{
+    color: white;
+    text-shadow: #555 2px 2px 3px;
+    text-align: center;
+    background-position: center;
+    margin-top: 5%;
+}
+.divimg {
+    width: 260px;
+    height: 275px;
+    background: #ffffff;
+    border: 1px solid #2b2b2b;
+    margin: 19px;
+    float: left;
+}
+
+#im {
+    width: 50%;
+    height: 50%;
+}
+#contenedorTabla{
+    margin: 350px;
+    width: 600px;
+    margin-top: 30px;
+}
+table{
+    width: 100%;
+    background-color:white;
+    text-align: left;
+    border-collapse: collapse;
+    border-radius: 15px;
+}
+th, td{
+    padding: 10px;
+
+}
+thead{
+
+    background-color:thistle;
+    border-bottom: solid 5px darksalmon;
+
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.boton6{
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: lightslategrey;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+label{
+    color: white;
+}
